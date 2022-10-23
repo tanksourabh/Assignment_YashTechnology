@@ -4,10 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.yash.basics.Program2;
-
 public class Program2Test {
-	Program1 t = new Program1();
+	Program2 t = new Program2();
 	
     @Test
     public void testCharAt1(){  
